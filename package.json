@@ -29,7 +29,7 @@
     "apps"
   ],
   "dependencies": {
-    "electron-packager": "^5.1.0"
+    "electron-packager": "git+https://github.com/zGrav/electron-packager.git"
   },
   "devDependencies": {
     "grunt": "^0.4.5",
